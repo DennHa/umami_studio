@@ -6,6 +6,7 @@
 <p>How to use: </p>
 - https://youtu.be/W7_7TrWDjVU
 - https://www.youtube.com/watch?v=r1PwjcOBon4&feature=youtu.be
+<br />
 
 ### Ripple Effect
 <p> How to use:</p>
